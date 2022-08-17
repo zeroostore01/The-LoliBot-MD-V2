@@ -23,4 +23,5 @@ m.reply('❗𝙄𝙣𝙛𝙤❗] 𝑬𝒓𝒓𝒐𝒓, 𝒑𝒐𝒓 𝒇𝒂𝒗
 console.log(e)
 }}
 handler.command = /^play3|playdoc?$/i
+handler.limit = 1
 export default handler

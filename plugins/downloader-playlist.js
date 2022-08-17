@@ -44,4 +44,5 @@ conn.sendMessage(m.chat, listMessage, fake)
 m.reply('*[❗𝙄𝙣𝙛𝙤❗] 𝑬𝒓𝒓𝒐𝒓, 𝒑𝒐𝒓 𝒇𝒂𝒗𝒐𝒓 𝒗𝒖𝒆𝒍𝒗𝒂 𝒂 𝒊𝒏𝒕𝒆𝒏𝒕𝒂𝒓𝒍𝒐*')
 }}
 handler.command = /^playlist|playlist2$/i
+handler.limit = 1
 export default handler

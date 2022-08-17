@@ -13,4 +13,5 @@ m.reply(json?.ParsedResults?.[0]?.ParsedText)
 }
 handler.command = /^ocr|totexto$/i
 handler.register = true
+handler.limit = 1
 export default handler

@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { youtubedl, youtubedlv2, youtubedlv3 } from '@bochilteam/scraper';
 let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) => {
 if (!args || !args[0]) throw `𝑸𝒖𝒆 𝒆𝒔𝒕𝒂́ 𝒃𝒖𝒔𝒄𝒂𝒏𝒅𝒐?  𝙄𝙣𝙜𝙧𝙚𝙨𝙚 𝙚𝙡 𝙚𝙣𝙡𝙖𝙘𝙚 𝙙𝙚 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝙥𝙖𝙧𝙖 𝙙𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙧 𝙚𝙡 𝙖𝙪𝙙𝙞𝙤`
-conn.reply(m.chat, `*⏳𝙀𝙨𝙥𝙚𝙧𝙚 𝙪𝙣𝙤𝙨 𝙨𝙚𝙜𝙪𝙣𝙙𝙤𝙨 𝙦𝙪𝙚 𝙚𝙣𝙫𝙞𝙖𝙢𝙤𝙨 𝙨𝙪𝙨 𝙫𝙞𝙙𝙚𝙤..⏳*`, m, {
+conn.reply(m.chat, `⏳𝙀𝙨𝙥𝙚𝙧𝙚 𝙪𝙣𝙤𝙨 𝙨𝙚𝙜𝙪𝙣𝙙𝙤𝙨 𝙦𝙪𝙚 𝙚𝙣𝙫𝙞𝙖𝙢𝙤𝙨 𝙨𝙪𝙨 𝙖𝙪𝙙𝙞𝙤..⏳`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝑫𝒋 𝑩𝒐𝒕',
 body: '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫',         

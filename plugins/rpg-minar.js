@@ -25,6 +25,7 @@ handler.command = ['minar', 'miming', 'mine', 'minarxp', 'minarexp', 'minarexper
 handler.fail = null
 handler.exp = 0
 handler.limit = 1
+handler.register = true
 export default handler
 
 function msToTime(duration) {

@@ -33,4 +33,5 @@ handler.help = ['calc <expression>']
 handler.tags = ['tools']
 handler.command = /^(calc(ulat(e|or))?|kalk(ulator)?)$/i
 handler.exp = 5
+handler.limit = 1
 export default handler
