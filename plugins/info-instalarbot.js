@@ -1,25 +1,31 @@
 import fs from 'fs'
 let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let text = `
-*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*
-> Tutorial: https://youtu.be/eC9TfKICpcY
-> Pagina Oficial: https://boxmineworld.com
-> Dashboard: https://dash.boxmineworld.com/home
-> Panel: https://panel.boxmineworld.com
-> Soporte: https://discord.gg/84qsr4v 
+*—◉ 𝑮𝒊𝒕𝒉𝒖𝒃 𝒅𝒆𝒍 𝒃𝒐𝒕
+ *https://github.com/elrebelde21/The-LoliBot-MD-V2*
+
+*—◉ 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍 𝒃𝒐𝒙𝒎𝒊𝒏𝒆 𝒉𝒐𝒕𝒔*
+> 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍: https://youtu.be/wWyBHtKzx9Q
+> 𝑷𝒂́𝒈𝒊𝒏𝒂: https://dash.boxmineworld.com/register?ref=VU4Pd51F
+> 𝑫𝒂𝒔𝒉𝒃𝒐𝒂𝒓𝒅: https://dash.boxmineworld.com
+> 𝑷𝒂𝒏𝒆𝒍: https://panel.boxmineworld.com
+> 𝑺𝒐𝒑𝒐𝒓𝒕𝒆 𝒔𝒐𝒃𝒓𝒆 𝒍𝒂 𝒑𝒂́𝒈𝒊𝒏𝒂: https://discord.gg/84qsr4v 
 
 ------------------------------------
 
-*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙰𝙲𝙸𝙳𝙸𝙲𝙽𝙾𝙳𝙴𝚂 𝙷𝙾𝚂𝚃*
-> Tutorial: https://youtu.be/nbjvreJ0tUk
-> Pagina: https://billing.acidicnodes.ml/register?ref=ADII104p
-> Soporte: https://whatsapp.acidicnodes.com
+*—◉ 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍 𝒂𝒄𝒊𝒅𝒊𝒄𝒏𝒐𝒅𝒆𝒔 𝒉𝒐𝒕𝒔*
+> 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍: https://youtu.be/nbjvreJ0tUk
+> 𝑷𝒂́𝒈𝒊𝒏𝒂: https://billing.acidicnodes.ml/register?ref=ADII104p
+> 𝑺𝒐𝒑𝒐𝒓𝒕𝒆 𝒔𝒐𝒃𝒓𝒆 𝒍𝒂 𝒑𝒂́𝒈𝒊𝒏𝒂: https://whatsapp.acidicnodes.com
 
 ------------------------------------
 
-*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
-*[❗] NO DISPONIBLE POR EL MOMENTO EL V2.[❗]*
-(si quiere instalar atrave de termux hacerlo con la version anterio)
+*—◉ 𝑪𝒐𝒎𝒂𝒏𝒅𝒐 𝒕𝒆́𝒓𝒎𝒖𝒙*
+*[❗] 𝑵𝒐 𝒅𝒊𝒔𝒑𝒐𝒏𝒊𝒃𝒍𝒆 𝒑𝒐𝒓 𝒆𝒍 𝒎𝒐𝒎𝒆𝒏𝒕𝒐 𝒆𝒍 𝒍𝒂 𝑽2.[❗]*
+(𝑺𝒊 𝒒𝒖𝒊𝒆𝒓𝒆 𝒊𝒏𝒔𝒕𝒂𝒍𝒂𝒓 𝒂𝒕𝒓𝒂𝒗𝒆 𝒅𝒆 𝒕𝒆́𝒓𝒎𝒖𝒙 𝒉𝒂𝒄𝒆𝒓𝒍𝒐 𝒄𝒐𝒏 𝒍𝒂 𝒗𝒆𝒓𝒔𝒊𝒐́𝒏 𝒂𝒏𝒕𝒆𝒓𝒊𝒐.)
+
+🔸 𝑽𝒊́𝒅𝒆𝒐 𝒕𝒖𝒕𝒐𝒓𝒊𝒂𝒍
+https://youtu.be/gh5NajZOTA8
 
 𝒔𝒊 𝒏𝒆𝒄𝒆𝒔𝒊𝒕𝒂𝒔 𝒂𝒚𝒖𝒅𝒂 𝒆𝒏𝒕𝒓𝒂 𝒂𝒍 𝒈𝒓𝒖𝒑𝒐 𝒅𝒆𝒍 𝒃𝒐𝒕
 
@@ -72,7 +78,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝚁𝙱𝙾𝚃',
 body: 'ᴛʜᴇ lolibot﹣ MD',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/elrebelde21/The-LoliBot-MD`}}})   
+sourceUrl: `https://github.com/elrebelde21/The-LoliBot-MD-V2`}}})   
 }
 handler.command = /^(instalarbot)/i
 export default handler
