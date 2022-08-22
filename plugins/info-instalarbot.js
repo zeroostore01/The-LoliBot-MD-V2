@@ -14,8 +14,8 @@ let text = `
 ------------------------------------
 
 *—◉ 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍 𝒂𝒄𝒊𝒅𝒊𝒄𝒏𝒐𝒅𝒆𝒔 𝒉𝒐𝒕𝒔*
-> 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍: https://youtu.be/nbjvreJ0tUk
-> 𝑷𝒂́𝒈𝒊𝒏𝒂: https://billing.acidicnodes.ml/register?ref=ADII104p
+> 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍: https://youtu.be/HyCqmXDHGeQ
+> 𝑷𝒂́𝒈𝒊𝒏𝒂: https://billing.acidicnodes.ml/register?ref=PDnm1xiH
 > 𝑺𝒐𝒑𝒐𝒓𝒕𝒆 𝒔𝒐𝒃𝒓𝒆 𝒍𝒂 𝒑𝒂́𝒈𝒊𝒏𝒂: https://whatsapp.acidicnodes.com
 
 ------------------------------------
