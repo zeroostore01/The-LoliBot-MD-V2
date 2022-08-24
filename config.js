@@ -5,13 +5,13 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5492266466080', '👑 Lolibot - Creador 👑', true],
-  ['573183650526', '👑 Loli - bot 1 👑', true],
-  ['972529277479', '👑 Loli - bot 2 👑', true],
+  ['6283890585717', 'Zeroo Store', true],
+  ['6283830815715', 'Zeroo¹', true],
+  ['6288293615247', 'Zeroo²', true],
 ] // Cambia los numeros que quieras
-global.suittag = ['50495745934'] 
+global.suittag = ['6283830815715'] 
 global.mods = [] 
-global.prems = [] 
+global.prems = ['6283890585717'] 
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -66,30 +66,30 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'toma tu stickers'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.packname = 'Sticker Buatan'
+global.author = '𝑻𝒉𝒆 𝒁 𝑬 𝑹 𝑶 𝑴𝑫'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.gt = '𝑻𝒉𝒆 𝒁 𝑬 𝑹 𝑶 𝑴𝑫'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCPSrzHooOjQMRmUK_2RLcSw'
+global.yt = 'https://tinyurl.com/2el4odke'
 global.youtube = yt
 
 global.ig = ''
 global.gatadiosig = ig
 
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = ''
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+global.nn = 'https://chat.whatsapp.com/E8IwFUibPjkDgilRKw6JBg'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/JQ3rJOqDDPG8PvCYPH6EXz'
+global.nnn = 'https://chat.whatsapp.com/E8IwFUibPjkDgilRKw6JBg'
 global.nnngrupo = nnn
 
 global.paypal = 'https://www.instagram.com'
@@ -97,25 +97,25 @@ global.donar = paypal
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
-global.rg = '╰⊱✅⊱ *𝑹𝒆𝒔𝒖𝒍𝒕𝒂𝒅𝒐* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ 𝒁 𝑬 𝑹 𝑶 ⊱✅⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝑨𝒅𝒗𝒆𝒓𝒕𝒆𝒏𝒄𝒊𝒂𝒔* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ 𝒁 𝑬 𝑹 𝑶 ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ *𝑰𝒏𝒇𝒐𝒎𝒂𝒄𝒊𝒐𝒏* ⊱❕⊱╮\n\n'
+global.iig = '╰⊱❕⊱ 𝒁 𝑬 𝑹 𝑶 ⊱❕⊱╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝑭𝒂𝒍𝒍𝒐 | 𝒆𝒓𝒓𝒐𝒓* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ 𝒆𝒓𝒓𝒐𝒓 ⊱❌⊱╮\n\n'
 global.fallo = fg
 
-global.mg = '╰⊱❗️⊱ *𝑳𝒐 𝒖𝒔𝒐 𝒎𝒂𝒍* ⊱❗️⊱╮\n\n'
+global.mg = '╰⊱❗️⊱ *𝒁 𝑬 𝑹 𝑶* ⊱❗️⊱╮\n\n'
 global.mal = mg
 
-global.eeg = '╰⊱📩⊱ *𝑹𝒆𝒑𝒐𝒓𝒕𝒆* ⊱📩⊱╮\n\n'
+global.eeg = '╰⊱📩⊱ *𝑹𝒆𝒑𝒐𝒓𝒕* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝑬𝒙𝒊𝒕𝒐𝒔* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱💚⊱ *𝒁 𝑬 𝑹 𝑶* ⊱💚⊱╮\n\n'
 global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
