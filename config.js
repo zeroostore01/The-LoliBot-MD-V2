@@ -97,32 +97,32 @@ global.donar = paypal
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
-global.rg = '╰⊱✅⊱ 𝒁 𝑬 𝑹 𝑶 ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ 𝒁 𝑬 𝑹 𝑶¹ ⊱✅⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ 𝒁 𝑬 𝑹 𝑶 ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ 𝒁 𝑬 𝑹 𝑶² ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ 𝒁 𝑬 𝑹 𝑶 ⊱❕⊱╮\n\n'
+global.iig = '╰⊱❕⊱ 𝒁 𝑬 𝑹 𝑶³ ⊱❕⊱╮\n\n'
 global.informacion = iig
 
 global.fg = '╰⊱❌⊱ 𝒆𝒓𝒓𝒐𝒓 ⊱❌⊱╮\n\n'
 global.fallo = fg
 
-global.mg = '╰⊱❗️⊱ *𝒁 𝑬 𝑹 𝑶* ⊱❗️⊱╮\n\n'
+global.mg = '╰⊱❗️⊱ *𝒁 𝑬 𝑹 𝑶⁴* ⊱❗️⊱╮\n\n'
 global.mal = mg
 
 global.eeg = '╰⊱📩⊱ *𝑹𝒆𝒑𝒐𝒓𝒕* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝒁 𝑬 𝑹 𝑶* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱💚⊱ *𝒁 𝑬 𝑹 𝑶⁵ ⊱💚⊱╮\n\n'
 global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
+global.wm = '𝑻𝒉𝒆 𝒁 𝑬 𝑹 𝑶 𝑴𝑫'
+global.igfg = '𝑻𝒉𝒆 𝒁 𝑬 𝑹 𝑶 𝑴𝑫'
+global.wait = '*⌛▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
